@@ -1,0 +1,45 @@
+.navbar {
+    padding: 50px;
+    gap: 110px;
+    background-color: white;
+}
+
+.navbar h1 {
+    padding-left: 20px;
+    color: red;
+}
+
+.para-sec {
+    background-color: #faf2ef;
+    height: 725px;
+    padding-left: 80px !important;
+}
+
+.contact {
+    background-color: black;
+    padding: 50px;
+    height: 550px;
+    width: 1090px;
+    display: flex;
+    gap: 300px;
+}
+
+.ask {
+    display: flex;
+    color: white;
+    gap: 20px;
+}
+
+.abc{
+    display: flex;
+    gap: 50px;
+}
+
+.converse input{
+    display: flex;
+    background-color: transparent;
+    border: none;
+    border-bottom:  1px solid white;
+    border-radius: 0;
+    padding: 25px; 
+}
